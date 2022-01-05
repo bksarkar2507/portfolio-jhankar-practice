@@ -20,14 +20,12 @@ h3{
 }
 .half{
     width: 50%;
-    border: 2px solid yellow;
     padding-left: 5%;
 }
 .half img{
     width: 80%;
 }
 section{
-    border: 2px solid tomato;
 }
 .button{
     text-decoration: none;
@@ -47,7 +45,6 @@ section{
     display: flex;
 }
 .experience{
-    border: 2px solid green;
     margin-bottom: 50px;
 }
 .experience-item{
